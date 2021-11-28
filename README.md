@@ -1,7 +1,7 @@
 <h1>Hey there! Nice to see you.</h1>
 
 
-<p>Welcome to my programming world ! </br> I'm Rahil Patel, Software developer from Ahmedabad, Gujarat, India<img src="https://www.flaticon.com/free-icon/india_3909444" width="13"/> </p>
+<p>Welcome to my programming world ! </br> I'm Rahil Patel, Software developer from Ahmedabad, Gujarat, India<img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
