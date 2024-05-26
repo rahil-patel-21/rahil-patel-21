@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-patel-21&layout=compact)
+
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -31,7 +33,7 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahil-patel-21&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahil-patel-21&show_icons=true&theme=catppuccin_mocha)
 
 ## 🔗 Connect with Me
 
