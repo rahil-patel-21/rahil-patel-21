@@ -15,10 +15,7 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-patel-21&layout=compact)
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahil-patel-21&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahil-patel-21&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahil-patel-21&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 
 ### Frameworks and Libraries
