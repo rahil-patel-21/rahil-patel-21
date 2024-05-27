@@ -17,6 +17,10 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-patel-21&layout=compact)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahil-patel-21&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahil-patel-21&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahil-patel-21&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -34,6 +38,9 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahil-patel-21&show_icons=true&theme=catppuccin_mocha)
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rahil-patel-21&theme=algolia&card_width=1000)](https://github.com/walidbosso) </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahil-patel-21&theme=algolia" width="100%" /> </br></br>
 
 ## 🔗 Connect with Me
 
