@@ -39,11 +39,11 @@ Welcome to my GitHub profile! I'm a self taught developer, passionate about Syst
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahil-patel-21&theme=algolia" width="100%" /> </br></br>
 
+![Github Stats](https://greptile-stats.vercel.app/api/widget/rahil-patel-21/stats)
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahil-rp21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahil.311298@gmail.com)
-
-![Github Stats](https://greptile-stats.vercel.app/api/widget/rahil-patel-21/stats)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Have a great day! 😄
